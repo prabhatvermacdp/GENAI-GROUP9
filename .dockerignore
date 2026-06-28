@@ -1,0 +1,14 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv
+.DS_Store
+*.zip
+*.ipynb
+M5_MP1_Instructions.pdf
+ReadMe_-_Mini-Project_5.pdf
